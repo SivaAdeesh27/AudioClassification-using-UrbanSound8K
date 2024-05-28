@@ -33,7 +33,7 @@ MFCCs are a popular feature extraction technique widely used in audio processing
 7. **Discrete Cosine Transform (DCT):** Extracting cepstral coefficients, which capture the spectral envelope and enhance discrimination between sounds.
 MFCCs effectively capture the characteristics of an audio signal that are most relevant for human perception, making them a powerful tool for audio classification tasks.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.researchgate.net/publication/335398843/figure/fig1/AS:796124961058818@1566822390492/MFCC-mel-frequency-cepstral-coefficients-characteristic-vectors-extraction-flow.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://d3i71xaburhd42.cloudfront.net/d067c2f7fe4d54c6224f8866763ec15b69a548ef/2-Figure1-1.png)
 
 ## Project Structure
 
