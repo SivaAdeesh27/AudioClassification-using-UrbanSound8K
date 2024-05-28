@@ -7,3 +7,7 @@ Welcome to the Audio Classification with UrbanSound8K repository! This project s
 - **Training and Evaluation**: Code for training the model with support for validation and testing on unseen data.
 - **Feature Extraction**: Techniques for extracting relevant audio features such as Mel-Frequency Cepstral Coefficients (MFCCs).
 - **Visualization**: Tools for visualizing audio data, model performance metrics, and training history.
+
+## Dataset
+The dataset consists of 10 classes each varying in sound. The model is trained using 8200 sound waves. 
+
