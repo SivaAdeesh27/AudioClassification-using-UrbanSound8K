@@ -41,6 +41,7 @@ AudioClassification.ipynb file contains:
 - training: Code for training the model with validation and testing capabilities.
 - features: Functions for extracting relevant audio features (including MFCCs).
 - visualization: Tools for visualizing audio data, model performance metrics, and training history.
+  
 README.md: This file (you are reading it!).
 
 ## Usage
